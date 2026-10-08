@@ -55,7 +55,32 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@tomayac](https://github.com/tomayac) | 193 |
+| [@dwelle](https://github.com/dwelle) | 20 |
+| [@seanaye](https://github.com/seanaye) | 15 |
+| [@dependabot[bot]](https://github.com/apps/dependabot) | 9 |
+| [@developit](https://github.com/developit) | 8 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
+| [@steveruizok](https://github.com/steveruizok) | 5 |
+| [@balyo-alexis-delrieu](https://github.com/balyo-alexis-delrieu) | 3 |
+| [@RReverser](https://github.com/RReverser) | 3 |
+| [@tclangv](https://github.com/tclangv) | 3 |
+| [@tmcw](https://github.com/tmcw) | 2 |
+| [@niedzielski](https://github.com/niedzielski) | 2 |
+| [@jmrog](https://github.com/jmrog) | 2 |
+| [@Barba828](https://github.com/Barba828) | 1 |
+| [@christianliebel](https://github.com/christianliebel) | 1 |
+| [@dmihalcik-virtru](https://github.com/dmihalcik-virtru) | 1 |
+| [@fvilers](https://github.com/fvilers) | 1 |
+| [@kbariotis](https://github.com/kbariotis) | 1 |
+| [@raid](https://github.com/raid) | 1 |
+| [@simon-lammes](https://github.com/simon-lammes) | 1 |
+| [@nikhilbghodke](https://github.com/nikhilbghodke) | 1 |
+| [@rwv](https://github.com/rwv) | 1 |
+| [@skratchdot](https://github.com/skratchdot) | 1 |
+| [@soulofmischief](https://github.com/soulofmischief) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
