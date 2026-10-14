@@ -58,8 +58,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@tomayac](https://github.com/tomayac) | 193 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 20 |
 | [@dwelle](https://github.com/dwelle) | 20 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 19 |
 | [@seanaye](https://github.com/seanaye) | 15 |
 | [@dependabot[bot]](https://github.com/apps/dependabot) | 9 |
 | [@developit](https://github.com/developit) | 8 |
